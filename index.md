@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+Ishlok Karki - 4393718: Text can be bold, italic or strikethrough
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
